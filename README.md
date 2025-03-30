@@ -1,0 +1,2 @@
+# Yusuf-Derdy
+Quant Trading
